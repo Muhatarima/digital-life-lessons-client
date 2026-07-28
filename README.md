@@ -1,6 +1,4 @@
-Thik ache, ekbare full ready-to-paste dilam. Ei content diye `client/README.md` file ta **completely replace** koro:
 
-```markdown
 # Digital Life Lessons
 
 A full-stack platform where users can create, store, and share meaningful life lessons, personal growth insights, and wisdom gathered over time. Users can organize lessons, mark favorites, track progress, and browse public lessons shared by others.
